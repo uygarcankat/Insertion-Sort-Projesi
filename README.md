@@ -1,2 +1,2 @@
 # Insertion-Sort-Projesi
-patika.dev
+ www.patika.dev 
